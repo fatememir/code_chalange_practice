@@ -1,6 +1,6 @@
 # code_chalange_practice
 
-A new Flutter project.
+A project to practice small programming challenges
 
 ## Getting Started
 
